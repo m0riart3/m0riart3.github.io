@@ -13,7 +13,7 @@ De vez en cuando, salgo de esa cueva para participar en algún **CTF**, romperme
 
 Formé parte del equipo de CTF **Flaggermeister**, una etapa en la que entendí que en este mundillo no hay mejor forma de aprender que ensuciarse las manos: probar, fallar, insistir y seguir dándole vueltas a los problemas hasta encontrar la clave.
 
-Esa mentalidad —la de aprender haciendo— sigue guiando todo lo que hago hoy. Actualmente soy analista de CTI con más de 2 años de experiencia en el sector.
+Esa mentalidad la de aprender haciend sigue guiando todo lo que hago hoy. Actualmente soy analista de CTI con más de 2 años de experiencia en el sector.
 
 ---
 
@@ -22,7 +22,7 @@ Esa mentalidad —la de aprender haciendo— sigue guiando todo lo que hago hoy.
 Este blog es una extensión de esa cueva:  
 un espacio donde comparto artículos de investigación en CTI, análisis de malware y, de vez en cuando, alguna batallita o reflexión sobre el día a día en ciberseguridad.  
 
-Mi objetivo es mantener un equilibrio entre lo *técnico y lo accesible: ofrecer contenido útil y bien explicado, sin pretender ser un gurú, pero sí alguien que disfruta compartiendo lo que aprende.
+Mi objetivo es mantener un equilibrio entre lo técnico y lo accesible: ofrecer contenido útil y bien explicado, sin pretender ser un gurú, pero sí alguien que disfruta compartiendo lo que aprende.
 
 ---
 
