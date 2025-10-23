@@ -29,9 +29,9 @@ Mi objetivo es mantener un equilibrio entre lo técnico y lo accesible: ofrecer 
 ##  Perfil técnico
 
 **Áreas de interés:**
-- Análisis de malware (estático y dinámico)  
-- Investigación de amenazas (APT, ransomware, phishing, etc.)  
+- Análisis de malware   
+- Investigación de actores y amenazas  
 - Reversing y análisis de binarios  
 - Threat Hunting e inteligencia de amenazas  
-- Participación en CTFs de seguridad ofensiva y forense  
+- Participación en algún CTF  
 
