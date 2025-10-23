@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hola, soy m0riart3, un analista de CTI y analista de malware que suele pasar demasiado tiempo en su cueva digital, explorando nuevas muestras, rastreando actores de amenazas y analizando campañas maliciosas.  
+Hola, soy m0riart3, un analista de CTI y analista de malware que suele pasar demasiado tiempo en su cueva, explorando nuevas muestras, rastreando actores de amenazas y analizando campañas maliciosas.  
 De vez en cuando, salgo de esa cueva para participar en algún **CTF**, romperme la cabeza con retos curiosos y aprender algo nuevo por el camino.
 
 ---
